@@ -32,6 +32,7 @@ I turn ideas into working products—spanning apps, websites, and mini-programs�
 📫 Reach me on
   - ✖️ [X](https://x.com/victorymakes)
   - 📧 [email](mailto:victorylanuch@gmail.com)
+  - 📕 [xiaohongshu](https://www.xiaohongshu.com/user/profile/605834f00000000001002dfc)
   - 🌐 [website](https://me.victoryhub.cc/)
 
 
