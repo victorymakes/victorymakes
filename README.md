@@ -31,9 +31,13 @@ I turn ideas into working products—spanning apps, websites, and mini-programs�
 
 📫 Reach me on
   - ✖️ [X](https://x.com/victorymakes)
-  - 📧 [email](mailto:victorylanuch@gmail.com)
-  - 📕 [xiaohongshu](https://www.xiaohongshu.com/user/profile/605834f00000000001002dfc)
-  - 🌐 [website](https://me.victoryhub.cc/)
+  - <img src="https://cdn.simpleicons.org/discord/discord" style="height:12px;width:12px'"> [Discord](https://discord.com/channels/@victorylaunch)
+  - 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/605834f00000000001002dfc)
+  - 🌐 [Website](https://me.victoryhub.cc/)
+
+Products
+- 🛠️ [VictoryHub](https://victoryhub.cc)
+- 🚀 [LaunchSaaS](https://launchsaas.org)
 
 
 <!--
