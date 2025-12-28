@@ -36,8 +36,10 @@ I turn ideas into working products—spanning apps, websites, and mini-programs�
   - 🌐 [Website](https://me.victoryhub.cc/)
 
 Products
-- 🛠️ [VictoryHub](https://victoryhub.cc)
 - 🚀 [LaunchSaaS](https://launchsaas.org)
+- 🛠️ [VictoryHub](https://victoryhub.cc)
+- 👤 [Personal Profile Template](https://me.victoryhub.cc)
+- 📖 [Personal Blog Template](https://blog.victoryhub.cc)
 - 🤩 [Awesome Lists](https://awesome.victoryhub.cc)
 
 
