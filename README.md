@@ -37,6 +37,8 @@ I turn ideas into working products—spanning apps, websites, and mini-programs�
 
 Products
 - 🚀 [LaunchSaaS](https://launchsaas.org)
+- 🚀 [LaunchDirectory](https://thereisanai.netlify.app/)
+- 🚀 [LaunchImage](https://launch-image-staging.vioao.workers.dev/)
 - 🛠️ [VictoryHub](https://victoryhub.cc)
 - 👤 [Personal Profile Template](https://me.victoryhub.cc)
 - 📖 [Personal Blog Template](https://blog.victoryhub.cc)
